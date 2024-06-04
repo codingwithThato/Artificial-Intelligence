@@ -5,7 +5,7 @@ public class Main {
 
     
     public static void main(String[] args) {
-        long seed = System.currentTimeMillis();
+        long seed = 1716664409626l;
         System.out.println("Seed Value: " + seed);
         // Random rand = new Random(seed);
 
